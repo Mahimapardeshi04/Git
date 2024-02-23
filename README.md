@@ -1,2 +1,2 @@
 # Git
-this is java project final year
+this is Git project 
